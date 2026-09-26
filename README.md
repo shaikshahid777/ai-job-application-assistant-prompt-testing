@@ -5,8 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant"><img src="https://img.shields.io/badge/Custom%20GPT-AI%20Job%20Application%20Assistant-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="Custom GPT"></a>
-  <a href="https://www.loom.com/share/08fe819958f74df7bcb8e7dfc243dd38"><img src="https://img.shields.io/badge/Loom-Assessment%20Demo-625df5?style=for-the-badge&logo=loom&logoColor=white" alt="Loom"></a>
+  <a href="https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant"><img src="https://img.shields.io/badge/🤖%20Custom%20GPT-Open%20Assistant-10a37f?style=for-the-badge" alt="Custom GPT"></a>
+  <a href="https://www.loom.com/share/08fe819958f74df7bcb8e7dfc243dd38"><img src="https://img.shields.io/badge/🎥%20Loom-Watch%20Demo-625df5?style=for-the-badge" alt="Loom Demo"></a>
+</p>
+
+<p align="center">
+  <a href="test_checklist.md"><img src="https://img.shields.io/badge/🧪%20Test%20Checklist-Open-0366d6?style=for-the-badge" alt="Test Checklist"></a>
+  <a href="initial_test_results.md"><img src="https://img.shields.io/badge/📊%20Initial%20Results-Open-0366d6?style=for-the-badge" alt="Initial Results"></a>
+  <a href="instructions_v1.1.md"><img src="https://img.shields.io/badge/⚙️%20Instructions%20v1.1-Open-0366d6?style=for-the-badge" alt="Instructions v1.1"></a>
+  <a href="before_after_comparison.md"><img src="https://img.shields.io/badge/📈%20Before%20%26%20After-Open-0366d6?style=for-the-badge" alt="Before After"></a>
+  <a href="Topic_8_Prompt_Testing_Iteration_Assessment.pdf"><img src="https://img.shields.io/badge/📄%20Assessment%20PDF-Open-8b5cf6?style=for-the-badge" alt="Assessment PDF"></a>
 </p>
 
 <p align="center">
@@ -85,14 +93,17 @@ When a topic is not explicitly covered by the Knowledge Guide, the assistant is 
 4. Keep documented rules and general guidance separate.
 5. Never imply that an undocumented rule exists.
 
-## 📁 Repository Structure
+## 📁 Assessment Deliverables
 
-| File | Purpose |
-|---|---|
-| `test_checklist.md` | 12-test validation checklist and expected behavior |
-| `initial_test_results.md` | Baseline test execution and results |
-| `instructions_v1.1.md` | Instruction improvement applied after baseline testing |
-| `before_after_comparison.md` | Before/after metrics and iteration analysis |
+| Deliverable | Purpose | Open |
+|---|---|---|
+| 🧪 `test_checklist.md` | 12-test validation framework | [View](test_checklist.md) |
+| 📊 `initial_test_results.md` | Baseline execution and results | [View](initial_test_results.md) |
+| ⚙️ `instructions_v1.1.md` | Instruction improvement | [View](instructions_v1.1.md) |
+| 📈 `before_after_comparison.md` | Before/after analysis | [View](before_after_comparison.md) |
+| 📄 Assessment PDF | Complete LMS assessment report | [Open PDF](Topic_8_Prompt_Testing_Iteration_Assessment.pdf) |
+| 🎥 Loom | Assessment demonstration | [Watch Demo](https://www.loom.com/share/08fe819958f74df7bcb8e7dfc243dd38) |
+| 🤖 Custom GPT | Working AI Job Application Assistant | [Open GPT](https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant) |
 
 ## 🛡️ Red-Team Results
 
@@ -112,11 +123,19 @@ The iteration therefore improved **instruction clarity and provenance without sa
 
 ## 🎥 Assessment Demo
 
-**Loom:** [Watch the Topic 8 demonstration](https://www.loom.com/share/08fe819958f74df7bcb8e7dfc243dd38)
+<p align="center">
+  <a href="https://www.loom.com/share/08fe819958f74df7bcb8e7dfc243dd38">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20LOOM%20DEMO-Open%20Video-625df5?style=for-the-badge" alt="Watch Loom Demo">
+  </a>
+</p>
 
 ## 🤖 Custom GPT
 
-[Open AI Job Application Assistant](https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant)
+<p align="center">
+  <a href="https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant">
+    <img src="https://img.shields.io/badge/OPEN%20AI%20JOB%20APPLICATION%20ASSISTANT-10a37f?style=for-the-badge" alt="Open Custom GPT">
+  </a>
+</p>
 
 ## 💡 Key Takeaway
 
